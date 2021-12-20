@@ -8,7 +8,7 @@ library(BBmisc)
 # I. Preliminaries ----
 # set up developer keys first in order to retrieve data
 client_id <- '8b3bd5ccb690416f85c876e2ffc4138a'
-secret <- '45f55d8ebb1645eeb903b558d3288417' #do not share
+#secret <- secret #do not share
 user_id <- '12153873361'
 #keys <- spotifyOAuth(user_id, client_id, secret)
 
